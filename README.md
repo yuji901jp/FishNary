@@ -5,3 +5,4 @@ Fish Dictionary based on Deep Learning
 勉強用ファイルのためJupyter Notebook環境での動作を前提としてる。
 
 Keras = 2.1.2-tf (backend: tensorflow1.5.0)
+Numpy = 1.14.2
